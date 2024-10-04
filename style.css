@@ -1,0 +1,30 @@
+/* Color */
+.bg-sky-800 {
+  background-color: #075985;
+}
+
+/* Index */
+.hero-bg {
+  background: url("./img/pipe.png") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.hero-text {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.navbar-custom {
+  background-color: #075985;
+}
+
+.btn-custom {
+  background-color: #ecc94b;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #d69e2e;
+}
